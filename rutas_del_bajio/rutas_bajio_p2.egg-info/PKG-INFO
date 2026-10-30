@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: rutas-bajio-p2
+Version: 0.1.0
+Summary: Proyecto academico de logistica con persistencia CSV
+Requires-Python: >=3.10
+Provides-Extra: test
+Requires-Dist: pytest>=7; extra == "test"
